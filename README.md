@@ -1,3 +1,3 @@
 # First-demo
-This is my first repository
-author - Roshan jadhav
+This is my first git repository.
+author - Roshan Jadhav
